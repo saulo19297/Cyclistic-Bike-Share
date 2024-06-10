@@ -11,14 +11,14 @@ de data provided to find out what is the different between casual riders and mem
 - remove empty rows
 - add new column ride_length that tells the duration of trips in minutes
 
-  ## Data Analysis
-  - order data by month then by day
-  - average of ride length by month and day
+## Data Analysis
+- order data by month then by day
+- average of ride length by month and day
 
-  ## Visualization
-  - amount of total casual riders vs members
-  - average trip length casual riders vs members per month
-  - average trip length casual riders vs members per day
+## Visualization
+- amount of total casual riders vs members
+- average trip length casual riders vs members per month
+- average trip length casual riders vs members per day
 
 ## Recomendations
 - Make membership price cheaper to casual riders that use a bike for 20 or more minutes
