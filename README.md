@@ -4,7 +4,7 @@ documentation of the process done with Cyclistic Bike_share data analysis.
 ## Project
 a bike-share company's director of marketing believes the company’s future success
 depends on maximizing the number of annual memberships. Therefore, the goal is to analyze
-de data provided to find out what is the different between casual riders and members.
+data provided to find out what is the different between casual riders and members.
 
 ## Data Cleaning
 - check all files have the same columns
